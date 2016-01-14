@@ -1,0 +1,24 @@
+
+
+Useful commands:
+
+
+	mkdir	create a directory
+	ls		list files in your current directory
+	pwd		prints the directory you're currently in
+	rm		remove a file
+
+	
+	mv		moves files
+			example:    mv document.txt  my_documents
+			this would move your file document into the folder my_documents
+	
+	cp		copies files
+			example:    cp document.txt  document_copy.txt
+			this would duplicated your file document as document_copy.txt
+
+	wildcards
+			wildcards let you copy multiple files at once based on a specific criteria
+			example:
+			mv *.jpg  jpg_files
+			this would move all jpg files to the folder jpg_files
